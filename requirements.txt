@@ -1,6 +1,5 @@
 numpy
 plotly
-os
 csv
 sqlite3
 pandas
