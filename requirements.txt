@@ -1,7 +1,5 @@
 numpy
 plotly
 pandas
-urllib
-pysqlite
-pandas
+
 
