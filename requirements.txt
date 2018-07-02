@@ -3,7 +3,7 @@ plotly
 os
 csv
 sqlite3
-pandas as pd
+pandas
 urllib
 pysqlite
 pandas
