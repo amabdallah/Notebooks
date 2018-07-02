@@ -1,6 +1,5 @@
 numpy
 plotly
-csv
 sqlite3
 pandas
 urllib
